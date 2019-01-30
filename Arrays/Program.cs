@@ -5,7 +5,7 @@
               Arrays after getting input from users. 
 */
 
-using System;
+using System; 
 
 namespace Arrays
 {
